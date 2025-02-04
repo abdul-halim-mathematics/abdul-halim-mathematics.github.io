@@ -1,2 +1,2 @@
 # Hello!
-# Welcome to my webpage. Abdul Halim is a teaching assistant.
+# Welcome to my webpage. I'm a teaching assistant.
