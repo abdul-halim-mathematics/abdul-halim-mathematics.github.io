@@ -3,10 +3,9 @@
 
 # Personal Information
 **Name:** Abdul Halim  
-**Major Field:** Pure Mathematics  
-**Minor Field:** Computer Science 
+
 **Nationality:** Indian  
-**Address:**  Germany  
+**Current Address:**  Germany  
 
 # Areas of Research
 - Noncommutative Geometry  
