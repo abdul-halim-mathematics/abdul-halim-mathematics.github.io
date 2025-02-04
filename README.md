@@ -92,7 +92,12 @@ ICFAS, p. 144, 19-Oct-2021
   - **Institution:** Online  
 
 ---
-
+# Scholarships
+### **2018**
+ -Master's Scholarship in Poland Government ( Fund: EU POWR.03.03.00-IP.08-00-MPK/16) 
+---
 ## My Notable Professor  
 
-- [Prof. Dr. Tomasz Luczak](http://tomasz.home.amu.edu.pl/) *(Publications with [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s))*  
+- [Prof. Dr. Tomasz Luczak](http://tomasz.home.amu.edu.pl/) *(Publications with [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s))*
+
+### For more information, feel free to contact.
