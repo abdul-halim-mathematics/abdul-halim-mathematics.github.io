@@ -1,4 +1,3 @@
-# Welcome to my webpage.  
 ![Profile Image](https://raw.githubusercontent.com/abdul-halim-mathematics/abdul-halim-mathematics.github.io/main/IMG222%5B303%5D.JPG)  
 
 # Personal Information
