@@ -3,9 +3,8 @@
 
 # Personal Information
 **Name:** Abdul Halim  
-**Field:** Mathematics  
+**Major Field:** Pure Mathematics  
 **Minor Field:** Computer Science 
-**Gender:** Male  
 **Nationality:** Indian  
 **Address:**  Germany  
 
