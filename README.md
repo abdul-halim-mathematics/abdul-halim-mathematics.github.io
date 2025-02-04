@@ -17,6 +17,10 @@
 # Employment Experience
 **Teaching Assistant / Tutor**  
 
+---
+
+# Publications
+
 ## Conference Papers
 
 ### Abdul Halim  
@@ -30,8 +34,7 @@ ICFAS, p. 144, 19-Oct-2021
 ---
 
 ## Workshops
-
-### Offline  
+  
 
 #### **Finite Geometry Workshop 2023**  
 📅 *30-Oct to 1-Nov 2023*  
@@ -62,7 +65,7 @@ ICFAS, p. 144, 19-Oct-2021
 
 ---
 
-## Attended Seminars  
+# Attended Seminars  
 
 ### **2016**  
 - **Director:** Prof. Dr. Cédric Villani *(Fields Medalist)*  
