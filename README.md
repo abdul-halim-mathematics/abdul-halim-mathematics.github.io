@@ -7,7 +7,7 @@
 **Nationality:** Indian  
 **Current Address:**  Germany  
 
-# Areas of Research
+# Areas of Expertise
 - Noncommutative Geometry  
 - Geometry of Manifolds
 - Algebraic Topology
