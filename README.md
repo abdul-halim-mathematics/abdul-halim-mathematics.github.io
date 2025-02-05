@@ -5,7 +5,6 @@
 **Name:** Abdul  
 **Surname:**  Halim  
 
-**Gender:** Male
 **Citizenship:** Indian  
 **Current Address:**  Germany  
 
