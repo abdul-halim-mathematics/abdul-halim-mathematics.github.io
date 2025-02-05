@@ -111,7 +111,7 @@ ICFAS, p. 144, 19-Oct-2021
 
 # Email
 
-- Feel free to contact: name.suranme@ip-paris.fr
+- Feel free to contact: abdul.halim@ip-paris.fr
   
 ---
 
