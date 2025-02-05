@@ -105,17 +105,19 @@ ICFAS, p. 144, 19-Oct-2021
 # Konown Languages
 
 - Native Level: Bengali, English, Hindi
-- Intermediate Level: French, Deutsch, Polish.
+- Intermediate Level: French, Deutsch, Polish
+
+---
+
+## My Notable Professor  
+
+- Prof. Dr. Tomasz Luczak *(Publications with [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s))*
 
 ---
 
 # Email
 
-- Feel free to contact: abdul.halim@ip-paris.fr
+- Feel free to contact: [abdul.halim@ip-paris.fr](mailto:abdul.halim@ip-paris.fr)
   
 ---
-
-## My Notable Professor  
-
-- [Prof. Dr. Tomasz Luczak](http://tomasz.home.amu.edu.pl/) *(Publications with [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s))*
 
