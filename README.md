@@ -107,6 +107,8 @@ ICFAS, p. 144, 19-Oct-2021
 - Native Level: Bengali, English, Hindi
 - Intermediate Level: French, Deutsch, Polish.
 
+---
+
 # Email
 
 - Feel free to contact: name.suranme@ip-paris.fr
