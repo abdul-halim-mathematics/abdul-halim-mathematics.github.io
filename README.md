@@ -2,10 +2,13 @@
 ![Profile Image](https://raw.githubusercontent.com/abdul-halim-mathematics/abdul-halim-mathematics.github.io/main/IMG222%5B303%5D.JPG)  
 
 # Personal Information
-**Name:** Abdul Halim  
+**Name:** Abdul
+**Surname:** Halim  
 
-**Nationality:** Indian  
+**Citizenship:** Indian  
 **Current Address:**  Germany  
+
+---
 
 # Areas of Expertise
 - Noncommutative Geometry  
@@ -13,6 +16,8 @@
 - Algebraic Topology
 - Operator Algebras  
 - Category Theory  
+
+---
 
 # Employment Experience
 **Teaching Assistant / Tutor**  
@@ -44,7 +49,6 @@ ICFAS, p. 144, 19-Oct-2021
 - **My talk:** Cayley graph *G* of the mapping class group of the surface with respect to *ℤ₂^(k(k-1)/2)*  
 - **Sponsors:** Hungarian Academy of Sciences  
 
----
 
 #### **Equivariant Methods in Geometry**  
 📅 *8-Jan to 12-Jan 2024*  
@@ -53,7 +57,6 @@ ICFAS, p. 144, 19-Oct-2021
 - **Topic:** Equivariant Methods in Geometry  
 - **Sponsors:** EPSRC grant no EP/K032208/1  
 
----
 
 #### **Applications of NonCommutative Geometry to Gauge Theories, Field Theories, and Quantum Space-Time**  
 📅 *7-Apr to 11-Apr 2025*  
@@ -92,11 +95,22 @@ ICFAS, p. 144, 19-Oct-2021
   - **Institution:** Online  
 
 ---
+
 # Scholarships
-### **2018**
 
  - Master's Scholarship in Poland Government ( Fund: EU POWR.03.03.00-IP.08-00-MPK/16)
-   
+
+---
+
+# Konown Languages
+
+- Native Level: Bengali, English, Hindi
+- Intermediate Level: French, Deutsch, Polish.
+
+# Email
+
+- Feel free to contact: name.suranme@ip-paris.fr
+  
 ---
 
 ## My Notable Professor  
