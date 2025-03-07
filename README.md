@@ -19,7 +19,7 @@
 
 ---
 
-# Employment Experience
+# Current Employment
 **Teaching Assistant / Tutor**  
 
 ---
@@ -92,7 +92,7 @@ ICFAS, p. 144, 19-Oct-2021
 ### **2021**  
 - **Prof. Dr. Gang Tian**  
   - *Topic:* On one of Calabi's problems  
-  - **Institution:** Online  
+  - **Institution:** École Polytechnique, France 
 
 ---
 
