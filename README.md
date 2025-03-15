@@ -6,22 +6,23 @@
 **Surname:**  Halim  
 
 **Citizenship:** Indian  
-**Current Address:**  Germany  
+**Current Address:**  Germany, Europe.  
 
 ---
 
 # Areas of Expertise
 - Noncommutative Geometry  
 - Geometry of Manifolds
-- Algebraic Topology
-- Operator Algebras  
-- Category Theory  
+- Quantum Field Theory
+- Bicategory Theory  
+- Complex Geometry  
 
 ---
 
 # Current Employment
 **Teaching Assistant / Tutor**  
-
+  Germany
+  
 ---
 
 # Publications
@@ -102,7 +103,7 @@ ICFAS, p. 144, 19-Oct-2021
 
 ---
 
-# Konown Languages
+# Known Languages
 
 - Native Level: Bengali, English, Hindi
 - Intermediate Level: French, Deutsch, Polish
