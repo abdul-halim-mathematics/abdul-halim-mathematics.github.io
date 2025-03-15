@@ -6,7 +6,7 @@
 **Surname:**  Halim  
 
 **Citizenship:** Indian  
-**Current Address:**  Germany, Europe.  
+**Current Address:**  Germany 
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 # Current Employment
-**Teaching Assistant / Tutor**  
+**Teaching Assistant**  
   Germany
   
 ---
@@ -74,26 +74,26 @@ ICFAS, p. 144, 19-Oct-2021
 ### **2016**  
 - **Director:** Prof. Dr. Cédric Villani *(Fields Medalist)*  
   - *Topic:* Boltzmann equation  
-  - **Institution:** Presidency University, Kolkata  
+  - **Institution:** Presidency University, Kolkata India
 
 - **Prof. Dr. Arnaud Chéritat**  
   - *Topic:* Douady's conjecture  
-  - **Institution:** Presidency University, Kolkata  
+  - **Institution:** Presidency University, Kolkata India
 
 ### **2017**  
 - **Prof. Dr. M S Raghunathan** *(Royal Society Fellow)*  
   - *Topic:* Lie Representations  
-  - **Institution:** Presidency University, Kolkata  
+  - **Institution:** Presidency University, Kolkata India
 
 ### **2019**  
 - **Prof. Dr. Dariusz Bugajewski & Prof. Henryk Hudzik**  
   - *Topic:* Semialgebraic geometry of Puiseux series  
-  - **Institution:** Adam Mickiewicz University, Poznan  
+  - **Institution:** Adam Mickiewicz University, Poznań Poland
 
 ### **2021**  
 - **Prof. Dr. Gang Tian**  
   - *Topic:* On one of Calabi's problems  
-  - **Institution:** École Polytechnique, France 
+  - **Institution:** École Polytechnique,Palaiseau France 
 
 ---
 
