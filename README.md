@@ -67,6 +67,14 @@ ICFAS, p. 144, 19-Oct-2021
 - **My talk:** Classification on Fell Algebras  
 - **Sponsors:** CIRM (CNRS), [CPT](https://www.cpt.univ-mrs.fr/), [European COST](https://ipr.univ-rennes.fr/partenariats-reseaux/reseaux-internationaux/cost)  
 
+
+#### **Workshop on Geometry, Topology, and Machine Learning (GTML 2025)**  
+📅 *10-Nov to 14-Nov 2025*  
+🏛️ [Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany](https://www.mis.mpg.de/)  
+
+- **Topic:** Geometry in Machine Learning
+- **My talk:** Applications of Geometry and Topology in Machine Learning 
+- **Sponsors:** [MPI für Mathematik in den Naturwissenschaften Leipzig](https://www.mis.mpg.de/events/series/workshop-on-geometry-topology-and-machine-learning-gtml-2025)
 ---
 
 # Attended Seminars  
