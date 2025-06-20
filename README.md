@@ -68,7 +68,7 @@ ICFAS, p. 144, 19-Oct-2021
 - **Sponsors:** CIRM (CNRS), [CPT](https://www.cpt.univ-mrs.fr/), [European COST](https://ipr.univ-rennes.fr/partenariats-reseaux/reseaux-internationaux/cost)  
 
 
-#### **Workshop on Geometry, Topology, and Machine Learning (GTML 2025)**  
+#### **Workshop on Geometry, Topology, and Machine Learning (GTML 2025)** 
 📅 *10-Nov to 14-Nov 2025*  
 🏛️ [Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany](https://www.mis.mpg.de/)  
 
